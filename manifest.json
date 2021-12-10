@@ -1,0 +1,17 @@
+{
+  "git_revision": "5ec149233ece28ba72f5427a12c162b5533a04f8",
+  "artifacts": {
+    "installer": {
+      "filename": "ncJugiMapSpriteTimelineAnimation-2026.05.r1-5ec1492-Win64-VS2022.exe",
+      "size": 3361161,
+      "timestamp": "2026-05-13T00:37:34Z",
+      "sha256": "1b598499d29a64544e64b6ccd7762d899c7153bc296a56028540434c626684fa"
+    },
+    "portable": {
+      "filename": "ncJugiMapSpriteTimelineAnimation-2026.05.r1-5ec1492-Win64-VS2022.zip",
+      "size": 4176418,
+      "timestamp": "2026-05-13T00:37:34Z",
+      "sha256": "88f639a57d83c2aaf9dd1d744a00535dcc9fd13155bc9d467fdcc1a617859ea8"
+    }
+  }
+}
